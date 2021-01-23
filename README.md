@@ -22,6 +22,8 @@ The following libraries are expected to be used in this project:
 - [Matplotlib](http://matplotlib.org/) (for data visualization)
 - [Seaborn](https://seaborn.pydata.org/) (for data visualization)
 
+ It is highly recommended that you use the Anaconda distribution to install Python, since the distribution includes all necessary Python libraries as well as Jupyter Notebooks.
+
 ## Data
 The actual data was removed due to terms and conditions of AZ Direct GmbH which prohibits of using data in any other content rather than Udacity course.
 
